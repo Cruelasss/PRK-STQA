@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_MASUKK</name>
+   <tag></tag>
+   <elementGuidId>393cd98d-8b9d-4898-b451-8efbad42566e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Instructions:'])[1]/following::textarea[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;give some instructur how to &quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>8cfecb8f-7fe6-4744-9dfc-db4cb6d154a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rows</name>
+      <type>Main</type>
+      <value>6</value>
+      <webElementGuid>b2a00ead-4fda-4128-a98d-4164e65cc0bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full p-2 bg-gray-700 border border-gray-600 rounded</value>
+      <webElementGuid>d9f5cedc-808c-4cb5-99ec-7a8bf74112c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>give some instructur how to </value>
+      <webElementGuid>59210c95-3474-4e00-a815-4792a51e9a54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>MASUKK</value>
+      <webElementGuid>3a6b4546-b4b1-498b-9e52-3c71de0f9dc3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;__className_d65c78&quot;]/div[@class=&quot;flex&quot;]/div[@class=&quot;flex-1&quot;]/main[@class=&quot;pt-16 pl-64 p-4 bg-gray-800 text-white min-h-screen&quot;]/div[@class=&quot;flex justify-center items-center bg-gray-800 p-6&quot;]/div[@class=&quot;bg-gray-900  w-[70vw] p-6 rounded-lg shadow-lg flex&quot;]/div[@class=&quot;w-1/2 flex flex-col&quot;]/form[@class=&quot;flex flex-col h-full space-y-4&quot;]/div[@class=&quot;flex-grow&quot;]/textarea[@class=&quot;w-full p-2 bg-gray-700 border border-gray-600 rounded&quot;]</value>
+      <webElementGuid>fe7fb8ad-0196-4575-bda6-195aa878789d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Instructions:'])[1]/following::textarea[1]</value>
+      <webElementGuid>ed397ff9-1f24-4829-987d-da4880c467aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ingredients:'])[1]/following::textarea[2]</value>
+      <webElementGuid>5c6c6ac7-2bd8-4b1f-9ec0-69cd373c5ca1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create Post'])[1]/preceding::textarea[1]</value>
+      <webElementGuid>1d7b2d4c-455f-4d37-b6e3-4502737bcb6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='MASUKK']/parent::*</value>
+      <webElementGuid>973a2ade-e6c7-46c6-8250-524fdf604d09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/textarea</value>
+      <webElementGuid>8998f844-44b2-4985-8252-e384e3630eaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@placeholder = 'give some instructur how to ' and (text() = 'MASUKK' or . = 'MASUKK')]</value>
+      <webElementGuid>15294614-79f3-4261-a125-449529ba3cab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

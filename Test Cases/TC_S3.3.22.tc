@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Cek Admin mengosongkan gambar</description>
+   <name>TC_S3.3.22</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3c83b878-1b39-4359-8ab7-1f4bc7031ad4</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Cek User mengosongkan gambar</description>
+   <name>TC_S3.3.21</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>91d4ca46-9f3a-43a1-9a55-1558a55d2913</testCaseGuid>
+</TestCaseEntity>

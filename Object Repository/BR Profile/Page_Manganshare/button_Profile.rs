@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Profile</name>
+   <tag></tag>
+   <elementGuidId>5d143e22-6870-4a20-b763-203ccfbe9d83</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Chat'])[1]/following::button[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Profile&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a2d578da-1c33-4ffd-9241-5ad4bebce093</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-center text-gray-300 hover:bg-gray-800 p-2 rounded</value>
+      <webElementGuid>e9ceced0-8a69-4fd9-bbad-b99b09db65c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Profile</value>
+      <webElementGuid>666389cc-7415-4503-a4a8-1911e279ce55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;__className_d65c78&quot;]/div[@class=&quot;flex flex-col min-h-screen&quot;]/div[@class=&quot;flex flex-grow&quot;]/aside[@class=&quot;fixed top-16 left-0 w-64 h-[calc(100vh-4rem)] bg-gray-900 shadow-md flex flex-col p-4&quot;]/nav[@class=&quot;flex flex-col space-y-4&quot;]/button[@class=&quot;flex items-center text-gray-300 hover:bg-gray-800 p-2 rounded&quot;]</value>
+      <webElementGuid>8660d660-5c1a-4c0d-a543-20f634b58e6a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chat'])[1]/following::button[1]</value>
+      <webElementGuid>6992f975-c181-4192-890d-5ab702d3c79c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create'])[1]/following::button[2]</value>
+      <webElementGuid>c7e41591-e61d-474a-ac13-1eb6dd0c25f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Report'])[1]/preceding::button[1]</value>
+      <webElementGuid>3b74d95a-7985-4ab1-a520-ab6a7180e23d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='nasi rebus'])[1]/preceding::button[2]</value>
+      <webElementGuid>12afdf72-27f6-46f1-90a0-89f0cd2850db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Profile']/parent::*</value>
+      <webElementGuid>5b1d5127-d27a-481a-8b2a-40562dd91605</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[5]</value>
+      <webElementGuid>6df1eefa-94cb-4be8-a8fa-e55f45e30523</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Profile' or . = 'Profile')]</value>
+      <webElementGuid>f322cb9a-3b2d-467d-9b96-ecb2617c4150</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No posts available'])[1]/preceding::button[1]</value>
+      <webElementGuid>490909ae-cdb8-4ac4-85b5-b3d09bad01be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mas Bro'])[1]/preceding::button[2]</value>
+      <webElementGuid>edc9815d-8091-4aae-a389-2dd20552df5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='coba'])[1]/preceding::button[1]</value>
+      <webElementGuid>6f73f6ed-5869-4626-b418-d6ebeeca4dc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='•'])[1]/preceding::button[1]</value>
+      <webElementGuid>ebdb5c11-5a0c-45fa-9e22-d9f83dfb79c0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

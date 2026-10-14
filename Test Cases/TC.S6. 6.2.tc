@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Cek Admin melihat alasan pada postingan yang dilaporkan</description>
+   <name>TC.S6. 6.2</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5c454cb7-05a4-48ad-b1ed-a2ef4c9242f9</testCaseGuid>
+</TestCaseEntity>

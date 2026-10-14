@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_TEPUN</name>
+   <tag></tag>
+   <elementGuidId>e66c4390-d898-4d06-8d63-b7ed75273b02</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Ingredients:'])[1]/following::textarea[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>textarea.w-full.p-2.bg-gray-700.border.border-gray-600.rounded</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Separate ingredients with commas&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>980b5233-c533-49c2-a0a5-1492dde4317c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rows</name>
+      <type>Main</type>
+      <value>4</value>
+      <webElementGuid>9f17d519-a00c-4b12-ab3f-8618e6fc69f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full p-2 bg-gray-700 border border-gray-600 rounded</value>
+      <webElementGuid>a175c8fb-e942-41de-8420-fd7443d439eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Separate ingredients with commas</value>
+      <webElementGuid>40e6862d-7046-4bda-8021-862e389cc9dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>TEPUN</value>
+      <webElementGuid>50d5c612-5657-4ec8-b2f7-f968138baf52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;__className_d65c78&quot;]/div[@class=&quot;flex&quot;]/div[@class=&quot;flex-1&quot;]/main[@class=&quot;pt-16 pl-64 p-4 bg-gray-800 text-white min-h-screen&quot;]/div[@class=&quot;flex justify-center items-center bg-gray-800 p-6&quot;]/div[@class=&quot;bg-gray-900  w-[70vw] p-6 rounded-lg shadow-lg flex&quot;]/div[@class=&quot;w-1/2 flex flex-col&quot;]/form[@class=&quot;flex flex-col h-full space-y-4&quot;]/div[@class=&quot;flex-grow&quot;]/textarea[@class=&quot;w-full p-2 bg-gray-700 border border-gray-600 rounded&quot;]</value>
+      <webElementGuid>8b3ce417-3cae-4f6f-9017-50639182b841</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ingredients:'])[1]/following::textarea[1]</value>
+      <webElementGuid>70c4b514-66aa-4d59-8aaf-a6b0be0bc40a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Serving Size:'])[1]/following::textarea[1]</value>
+      <webElementGuid>892771c7-616a-4d08-9e16-23e8ed11becd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Instructions:'])[1]/preceding::textarea[1]</value>
+      <webElementGuid>c1f4dd1d-616e-4b51-8007-d9a1fbf58d93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create Post'])[1]/preceding::textarea[2]</value>
+      <webElementGuid>1de0a9f2-68d2-4fbb-b0f4-7c3d7b9b3e74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='TEPUN']/parent::*</value>
+      <webElementGuid>c3404765-05f1-4263-9cef-ae3f5fd61941</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//textarea</value>
+      <webElementGuid>89c3d0a7-6e4c-46d1-a00b-eff4e8d8b050</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@placeholder = 'Separate ingredients with commas' and (text() = 'TEPUN' or . = 'TEPUN')]</value>
+      <webElementGuid>603b7cd9-7c11-495f-afb4-e105ab97f384</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

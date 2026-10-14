@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Cek User dapat melihat daftar menu yang diunggah</description>
+   <name>TC.S8. 8.3</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3b3f9386-d934-4f78-bc2f-779bc13ead7f</testCaseGuid>
+</TestCaseEntity>

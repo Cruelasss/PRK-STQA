@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>a68a4925-e287-463c-a36c-7a55f3b26fd2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>svg.w-6.h-6.mr-2 > path</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;1&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>f2d6beee-643d-4408-bad5-49f9ca458643</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M21 8.25c0-2.485-2.099-4.5-4.688-4.5-1.935 0-3.597 1.126-4.312 2.733-.715-1.607-2.377-2.733-4.313-2.733C5.1 3.75 3 5.765 3 8.25c0 7.22 9 12 9 12s9-4.78 9-12Z</value>
+      <webElementGuid>5a4e24aa-629b-4146-9a06-b5d3ca0d62c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;__className_e8ce0c&quot;]/div[@class=&quot;flex flex-col min-h-screen&quot;]/div[@class=&quot;flex flex-grow&quot;]/main[@class=&quot;flex-grow ml-64 mt-16 p-4 bg-gray-800&quot;]/div[@class=&quot;bg-gray-800 min-h-screen p-4 flex flex-col items-center&quot;]/div[@class=&quot;fixed inset-0 bg-black bg-opacity-50 flex justify-center items-center z-50&quot;]/div[@class=&quot;bg-gray-800 w-[80vw] h-[90vh] p-4 rounded-lg shadow-lg relative flex&quot;]/div[@class=&quot;w-1/4 flex flex-col h-full relative&quot;]/button[@class=&quot;flex items-center py-2 w-14 rounded-lg mb-4 text-red-500&quot;]/svg[@class=&quot;w-6 h-6 mr-2&quot;]/path[1]</value>
+      <webElementGuid>7f6d066f-9008-4819-a930-ed211e77cd8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke-linecap</name>
+      <type>Main</type>
+      <value>round</value>
+      <webElementGuid>8aa9f3a8-9090-4730-863e-0572e9572659</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke-linejoin</name>
+      <type>Main</type>
+      <value>round</value>
+      <webElementGuid>c06d4283-bcbd-461d-bd51-5eee40c87df9</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

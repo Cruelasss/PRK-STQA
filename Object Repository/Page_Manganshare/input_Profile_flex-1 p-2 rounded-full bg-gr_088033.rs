@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Profile_flex-1 p-2 rounded-full bg-gr_088033</name>
+   <tag></tag>
+   <elementGuidId>71f16821-591f-4aff-b3ba-696f7a762df1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Search Users&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>b50144bc-9466-4b29-84bc-2d59296b7fa9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Search Users</value>
+      <webElementGuid>f8df40cd-47c6-43da-8dc6-f2af44e6ee46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex-1 p-2 rounded-full bg-gray-700 text-white placeholder-gray-500 focus:outline-none</value>
+      <webElementGuid>369234b1-ef35-47c3-ae6c-644a78adffa3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>fbf57400-11f2-46fa-96f9-b6362543fa32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;__className_e8ce0c&quot;]/div[@class=&quot;flex flex-col min-h-screen&quot;]/div[@class=&quot;flex flex-grow&quot;]/main[@class=&quot;flex-grow ml-64 mt-16 p-4 bg-gray-800&quot;]/div[@class=&quot;flex justify-center items-center bg-gray-800 p-6&quot;]/div[@class=&quot;bg-gray-900 w-[70vw] h-[80vh] rounded-lg shadow-lg flex flex-col&quot;]/div[@class=&quot;p-4 flex justify-center&quot;]/div[@class=&quot;flex w-4/5 items-center&quot;]/input[@class=&quot;flex-1 p-2 rounded-full bg-gray-700 text-white placeholder-gray-500 focus:outline-none&quot;]</value>
+      <webElementGuid>d7902da0-1276-43e1-8b06-035e7d510419</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='']</value>
+      <webElementGuid>a1921fef-eb3a-46e5-92c9-878817d2fec7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>2aff4199-389c-4bd2-af7b-e73585e25e0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Search Users' and @type = 'text']</value>
+      <webElementGuid>417b8282-c975-4a24-bb83-e48bf6f178b5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

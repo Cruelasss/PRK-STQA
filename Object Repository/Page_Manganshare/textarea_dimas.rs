@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_dimas</name>
+   <tag></tag>
+   <elementGuidId>be726a3d-b424-4d80-af95-e800a525e7dc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Instructions:'])[1]/following::textarea[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;give some instructur how to &quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>9348bfe6-37c4-4699-a482-0b9bbbab6612</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rows</name>
+      <type>Main</type>
+      <value>6</value>
+      <webElementGuid>391ea1f7-5b06-47c8-9318-3e44e254eac3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full p-2 bg-gray-700 border border-gray-600 rounded</value>
+      <webElementGuid>8e3db968-7395-4271-a80e-4c04be59795e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>give some instructur how to </value>
+      <webElementGuid>3cf55abc-4105-46fc-8b9b-605c295fe87c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>dimas</value>
+      <webElementGuid>4990ae7b-5b67-4540-9af8-1993e3ec7867</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;__className_e8ce0c&quot;]/div[@class=&quot;flex&quot;]/div[@class=&quot;flex-1&quot;]/main[@class=&quot;pt-16 pl-64 p-4 bg-gray-800 text-white min-h-screen&quot;]/div[@class=&quot;flex justify-center items-center bg-gray-800 p-6&quot;]/div[@class=&quot;bg-gray-900  w-[70vw] p-6 rounded-lg shadow-lg flex&quot;]/div[@class=&quot;w-1/2 flex flex-col&quot;]/form[@class=&quot;flex flex-col h-full space-y-4&quot;]/div[@class=&quot;flex-grow&quot;]/textarea[@class=&quot;w-full p-2 bg-gray-700 border border-gray-600 rounded&quot;]</value>
+      <webElementGuid>c068c70b-c244-40a2-ae60-2fe18964c4d4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Instructions:'])[1]/following::textarea[1]</value>
+      <webElementGuid>1e1572df-4b9f-4738-909b-f894c970bb67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='nasi'])[1]/following::textarea[1]</value>
+      <webElementGuid>c683e002-b257-483c-846e-ba4404a45492</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create Post'])[1]/preceding::textarea[1]</value>
+      <webElementGuid>4aa7015b-45a7-4ee7-8644-9a98c42bb206</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='dimas']/parent::*</value>
+      <webElementGuid>d187c5c7-9852-4040-9841-7380364afd16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/textarea</value>
+      <webElementGuid>ba0f09ca-fd7f-448d-9672-8d2f14f5f5cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@placeholder = 'give some instructur how to ' and (text() = 'dimas' or . = 'dimas')]</value>
+      <webElementGuid>5459435b-d3b4-4ded-ab66-7014845917d3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

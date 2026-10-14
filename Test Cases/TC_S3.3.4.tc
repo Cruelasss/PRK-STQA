@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Cek Admin memasukkan Ingredients</description>
+   <name>TC_S3.3.4</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1b9c81ab-396b-4ae3-b689-05c77d244e35</testCaseGuid>
+</TestCaseEntity>

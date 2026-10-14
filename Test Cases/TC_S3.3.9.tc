@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Cek Admin memasukkan gambar dengan format jpg, jpeg, dan png</description>
+   <name>TC_S3.3.9</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>45b858ea-eb6a-40be-8b18-e8fe0e468ecf</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Cek Admin dapat mengedit profilnya</description>
+   <name>TC.S8. 8.8</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4b92566f-e7cb-4e58-a64a-f06a79b845ef</testCaseGuid>
+</TestCaseEntity>

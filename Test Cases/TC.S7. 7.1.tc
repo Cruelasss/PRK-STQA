@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Cek User berhasil melihat Seluruh Postingan Menu Makanan</description>
+   <name>TC.S7. 7.1</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c060e37c-f484-49e7-8358-ae2c059f6a0b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Report</name>
+   <tag></tag>
+   <elementGuidId>35c0adfe-771b-4fe4-834c-50885b8167e6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Profile'])[1]/following::button[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Report&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>58ae03f2-dfac-4400-a63e-bacb489eb98a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-center text-yellow-600 hover:bg-gray-800 p-2 rounded text</value>
+      <webElementGuid>a28ad872-3c61-4ce6-b04a-fd101b20633f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Report</value>
+      <webElementGuid>c8e30e7d-b4f9-409c-9cb4-c889eba5d676</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;__className_d65c78&quot;]/div[@class=&quot;flex flex-col min-h-screen&quot;]/div[@class=&quot;flex flex-grow&quot;]/aside[@class=&quot;fixed top-16 left-0 w-64 h-[calc(100vh-4rem)] bg-gray-900 shadow-md flex flex-col p-4&quot;]/nav[@class=&quot;flex flex-col space-y-4&quot;]/button[@class=&quot;flex items-center text-yellow-600 hover:bg-gray-800 p-2 rounded text&quot;]</value>
+      <webElementGuid>b9b6edcf-5f72-47fe-85ec-811c5c3bd37d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profile'])[1]/following::button[1]</value>
+      <webElementGuid>6bb0f060-7a11-46ec-9ebf-412f3553d3f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chat'])[1]/following::button[2]</value>
+      <webElementGuid>cb3455ef-26d6-43fc-a7cf-930cfc708171</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='nasi rebus'])[1]/preceding::button[1]</value>
+      <webElementGuid>23c9646d-4a1d-4d22-bc01-f8f1bfb2ea37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='•'])[1]/preceding::button[1]</value>
+      <webElementGuid>b496ecd0-58a5-4037-bc08-ed29590a7189</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Report']/parent::*</value>
+      <webElementGuid>12d88bcf-04ba-45f9-978e-9ba7c71a4e66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[6]</value>
+      <webElementGuid>d62933aa-d647-4659-8d9e-1cf8998a7fb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Report' or . = 'Report')]</value>
+      <webElementGuid>0da2092b-25e1-4fc8-968c-3be9866f8305</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No photos available'])[1]/preceding::button[1]</value>
+      <webElementGuid>833c8f69-0aaa-4657-b07f-9959f0115329</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='nasi bakar'])[1]/preceding::button[1]</value>
+      <webElementGuid>34adbc9c-5225-44ca-825a-e2f248dd09b0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

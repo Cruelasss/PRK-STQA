@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Profile_flex-1 p-2 rounded-full bg-gr_088033_1_2</name>
+   <tag></tag>
+   <elementGuidId>018a25ad-4b7a-4679-846d-af938e9276a6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='na']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Search Posts&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>f2f1205c-9e33-422c-8a38-dffa4ecaaccf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Search Posts</value>
+      <webElementGuid>7dae341e-a266-48aa-b0e5-763b18c47be0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex-1 p-2 rounded-full bg-gray-700 text-white placeholder-gray-500 focus:outline-none</value>
+      <webElementGuid>3f7da503-fab6-4e73-b218-2d0f7048a332</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>f7ffab3e-7e94-47d5-a701-26eb49a3269a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>na</value>
+      <webElementGuid>152bed2c-e1eb-4463-bf51-353de699b7b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;__className_e8ce0c&quot;]/div[@class=&quot;flex flex-col min-h-screen&quot;]/div[@class=&quot;flex flex-grow&quot;]/main[@class=&quot;flex-grow ml-64 mt-16 p-4 bg-gray-800&quot;]/div[@class=&quot;flex justify-center items-center bg-gray-800 p-6&quot;]/div[@class=&quot;bg-gray-900 w-[70vw] h-[80vh] rounded-lg shadow-lg flex flex-col&quot;]/div[@class=&quot;p-4 flex justify-center&quot;]/div[@class=&quot;flex w-4/5 items-center&quot;]/input[@class=&quot;flex-1 p-2 rounded-full bg-gray-700 text-white placeholder-gray-500 focus:outline-none&quot;]</value>
+      <webElementGuid>e4a6ea9a-39c1-45ea-88ed-f7efcc8e8b46</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='na']</value>
+      <webElementGuid>897dd4b7-1133-4fcb-a28c-4df6bed5b42c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>59396667-8075-46d5-acc8-3e2a38098f15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Search Posts' and @type = 'text']</value>
+      <webElementGuid>52a2b729-1412-4fb5-8bde-58ac44ce3f0b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

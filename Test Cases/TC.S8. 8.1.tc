@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Cek user dapat melihat profil pengunggah postingan</description>
+   <name>TC.S8. 8.1</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dd4ad3fe-1974-44b7-85be-3f338b585e1c</testCaseGuid>
+</TestCaseEntity>

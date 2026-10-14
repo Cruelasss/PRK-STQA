@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Cek Admin memasukkan nama menu dengan special character</description>
+   <name>TC_S3.3.3</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>198ae689-a642-4152-b59f-148930a34765</testCaseGuid>
+</TestCaseEntity>

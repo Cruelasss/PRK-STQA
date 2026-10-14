@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Cek User memasukkan gambar dengan format selain  jpg, jpeg, dan png</description>
+   <name>Bug Mode Tampilan Gelap dan Terang</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5162f950-b6de-4f00-9395-2d9d2626a853</testCaseGuid>
+</TestCaseEntity>

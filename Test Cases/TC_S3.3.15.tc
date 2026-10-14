@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Cek User Mengkosongkan deskripsi bahan</description>
+   <name>TC_S3.3.15</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>55a75d68-6403-4764-9f30-fdbba4295438</testCaseGuid>
+</TestCaseEntity>

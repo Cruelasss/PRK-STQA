@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Cek User memasukkan deskripsi intruksi</description>
+   <name>TC_S3.3.16</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4a77b295-364f-4aaf-aff3-725208b06e3e</testCaseGuid>
+</TestCaseEntity>

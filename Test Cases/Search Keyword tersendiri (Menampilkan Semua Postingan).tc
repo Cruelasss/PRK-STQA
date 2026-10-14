@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Search Keyword tersendiri (Menampilkan Semua Postingan)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6fe3d5b1-3087-4d5f-821f-2a3621ad03c2</testCaseGuid>
+</TestCaseEntity>

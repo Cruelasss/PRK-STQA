@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Cek Admin Dapat melihat seluruh postingan menu makanan</description>
+   <name>TC.S7. 7.2</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f90ee4db-07bb-4983-8022-21587450c3c0</testCaseGuid>
+</TestCaseEntity>

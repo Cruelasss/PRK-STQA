@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Cek User memasukkan gambar dengan format jpg, jpeg, dan png</description>
+   <name>TC_S3.3.19</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d2823b8a-2e20-4182-a2bc-0ab513fc91fc</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Cek Admin mengksosongkan deskripsi intruksi</description>
+   <name>TC_S3.3.17</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>623dcf11-73c5-4543-897d-d93b01576d74</testCaseGuid>
+</TestCaseEntity>

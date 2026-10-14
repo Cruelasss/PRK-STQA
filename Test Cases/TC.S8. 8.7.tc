@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Cek User dapat mengedit profilnya</description>
+   <name>TC.S8. 8.7</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>25cc1556-07a4-43bb-934a-e26f42be87be</testCaseGuid>
+</TestCaseEntity>

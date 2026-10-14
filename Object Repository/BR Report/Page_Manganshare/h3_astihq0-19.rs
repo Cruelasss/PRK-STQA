@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_astihq0-19</name>
+   <tag></tag>
+   <elementGuidId>8ff434bc-31ee-4ed8-a912-925ccd9e12bc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='•'])[1]/following::h3[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h3.text-white</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;astihq0-19&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>bcfb63fb-cdfc-4bc1-87fe-4c882b9226ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-white</value>
+      <webElementGuid>f4a1ade8-a04b-4df0-9f94-f695e1a33a42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>astihq0-19</value>
+      <webElementGuid>6e55d21d-b1fe-4cf7-8922-270a1048ec27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;__className_d65c78&quot;]/div[@class=&quot;flex flex-col min-h-screen&quot;]/div[@class=&quot;flex flex-grow&quot;]/main[@class=&quot;flex-grow ml-64 mt-16 p-4 bg-gray-800&quot;]/div[@class=&quot;bg-gray-800 min-h-screen p-4 flex flex-col items-center&quot;]/div[@class=&quot;flex flex-wrap gap-4 justify-center&quot;]/div[@class=&quot;bg-gray-700 hover:bg-gray-600 text-white shadow rounded-lg overflow-hidden flex relative cursor-pointer w-[800px] h-auto&quot;]/div[@class=&quot;w-full p-4 flex flex-col justify-between&quot;]/div[@class=&quot;flex items-center mt-4 border-t border-gray-600 pt-2&quot;]/h3[@class=&quot;text-white&quot;]</value>
+      <webElementGuid>f7ac62c4-85fd-4c90-89b3-3cbb97d2cc11</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='•'])[1]/following::h3[1]</value>
+      <webElementGuid>b0f3a85a-e46a-4008-aec1-27adbff179c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='nasi bakar'])[1]/following::h3[1]</value>
+      <webElementGuid>ee76de99-129b-4ab8-9780-b622d5c7af66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='coba'])[1]/preceding::h3[1]</value>
+      <webElementGuid>14357960-84fa-4e82-9c82-810a8d4a04b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='•'])[2]/preceding::h3[2]</value>
+      <webElementGuid>a844a055-3c95-4e97-bdf5-66be3b625953</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='astihq0-19']/parent::*</value>
+      <webElementGuid>f1155169-29f0-4cbd-b5e7-9e16d95747af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/h3</value>
+      <webElementGuid>193ee49b-add4-4750-8303-3453ffc2c79b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'astihq0-19' or . = 'astihq0-19')]</value>
+      <webElementGuid>b05c2923-5a63-4951-99b8-1ed8a34978e9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

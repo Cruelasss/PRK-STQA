@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_LoginLoginContinue with GoogleDont have_6448ef</name>
+   <tag></tag>
+   <elementGuidId>52aebc36-97a7-4d25-965d-0325ebcfc538</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.bg-gray-900.bg-opacity-70.p-8.rounded-lg.shadow-lg.w-full.max-w-md</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;LoginLoginContinue with GoogleDon't have an account? Register&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>46e6b8c4-6add-46fb-81a1-bca639679749</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bg-gray-900 bg-opacity-70 p-8 rounded-lg shadow-lg w-full max-w-md</value>
+      <webElementGuid>2118a8da-bd05-48e5-ac3e-cfc0c47d8ffa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>LoginLoginContinue with GoogleDon't have an account? Register</value>
+      <webElementGuid>bcb76453-021a-4cc5-9420-dd953bff1948</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;__className_d65c78&quot;]/div[@class=&quot;bg-cover bg-center min-h-screen flex items-center justify-center&quot;]/div[@class=&quot;bg-gray-900 bg-opacity-70 p-8 rounded-lg shadow-lg w-full max-w-md&quot;]</value>
+      <webElementGuid>c8fe807c-edc5-4fbc-97ab-daeccb2c9822</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div</value>
+      <webElementGuid>586801b5-766c-4a8b-82f1-d7aba9ceed57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;LoginLoginContinue with GoogleDon&quot; , &quot;'&quot; , &quot;t have an account? Register&quot;) or . = concat(&quot;LoginLoginContinue with GoogleDon&quot; , &quot;'&quot; , &quot;t have an account? Register&quot;))]</value>
+      <webElementGuid>5e45f88c-0d8e-4b0f-943f-4b6af4634e84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div</value>
+      <webElementGuid>f1a77e3a-f5ab-4023-ade2-59af38721c19</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Cek User memasukkan deskripsi bahan</description>
+   <name>TC_S3.3.14</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>026f5eaf-bc1d-4d4a-a657-02494de5cb52</testCaseGuid>
+</TestCaseEntity>

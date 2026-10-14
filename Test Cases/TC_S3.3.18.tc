@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Cek User menambahkan gambar</description>
+   <name>TC_S3.3.18</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>510e51d7-8f2b-4de2-9b88-55e51696005a</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Cek admin dapat melihat profil pengunggah postingan sendiri</description>
+   <name>TC.S8. 8.2</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a2cfb833-fe5c-4e46-8367-bf2426ed377f</testCaseGuid>
+</TestCaseEntity>

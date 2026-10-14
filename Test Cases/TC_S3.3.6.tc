@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Cek Admin memasukkan Instructions</description>
+   <name>TC_S3.3.6</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8e68b293-5d3b-4d05-9b8d-f328892e6b7b</testCaseGuid>
+</TestCaseEntity>

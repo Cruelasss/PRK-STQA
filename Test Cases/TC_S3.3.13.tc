@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Cek User memasukkan nama menu dengan special character</description>
+   <name>TC_S3.3.13</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>92399e02-ef5c-40c5-8cd2-17ab2df59faf</testCaseGuid>
+</TestCaseEntity>

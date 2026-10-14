@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Cek Admin mengksosongkan Instruction</description>
+   <name>TC_S3.3.7</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fcb9e27b-c31c-41e7-ad37-0ae4324a1f3a</testCaseGuid>
+</TestCaseEntity>

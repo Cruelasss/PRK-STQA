@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Cek User dapat meninjau riwayat like yang telah diberikan.</description>
+   <name>TC.S8. 8.5</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>935e8efe-1df1-4be3-939e-1bfe84949018</testCaseGuid>
+</TestCaseEntity>
